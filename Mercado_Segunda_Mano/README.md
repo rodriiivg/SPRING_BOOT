@@ -1,2 +1,2 @@
-Simulación de una tienda de segunda mano usando Spring Boot, Spring Security y diversas herramientas de Spring.
+Simulación de una tienda de segunda mano usando Spring Boot, Spring Security, Spring Web, Spring Session, Spring Data Redis, Thymeleaf, Spring Data Reactive Redis, Spring Data JPA...
 Se pueden crear usuarios, subir productos y comprar aquellos que están subidos (realizando una simulación de facturación).
